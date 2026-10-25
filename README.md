@@ -6,7 +6,7 @@ This repository contains the R code used for the analyses, figures and supplemen
 Manuscript Title : When forest meets cropland: metabarcoding reveals shifts in soil fungal diversity and network structure across land use and elevation in an Afromontane landscape 
 Submitted to *Landscape Ecology*.
 
-The analysis works from a phyloseq object of soil fungal OTUs obtained by metabarcoding, with samples grouped into four habitat types (`SMF`, `MF`, `UMF` and `CR`; [HABITAT DEFINITIONS TO BE ADDED]).
+The analysis works from a phyloseq object of soil fungal OTUs obtained by metabarcoding, with samples grouped into four habitat types (Submontane forest (SMF), montane forest (MF), upper montane forest (UMF), and  cropland (CR)).
 
 ## Data availability
 
